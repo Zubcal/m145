@@ -49,12 +49,5 @@
    
 ## Ressourcen   
  
-**Lernziele
--    
--    
--    
-   
-   
-## Bewertung   
- --- 
+
    
