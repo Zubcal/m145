@@ -46,6 +46,7 @@
 2. PC1, PC2 und PC3 können sich gegenseitig anpingen 
 3. Verwendetes Subnetz ist /24
 4. wireshark Packet Traces wurden durchgeführt und im Repository abgelegt
+
 ![image](https://github.com/Zubcal/m145/assets/127558095/f1581d4f-f7f0-430a-96a5-6bde018ac8cd)
 
 ## Fragen   
