@@ -39,8 +39,15 @@
     1. ob sie das ethernet kabel angeschlossen hat oder nicht   
 17. Wie lautet die SSID des Churer-AccessPoint?   
     ist nicht bekannt es kann aber den selben namen haben wie der AccessPoint selber: ZyXEL NWA 1123-AC   
-   
-   
+
+## Übung: GNS3 In Betrieb nehmen
+![image](https://github.com/Zubcal/m145/assets/127558095/449e797a-991e-410b-b69f-500ca4518a91)
+1. PC1,PC2 und PC3 haben je eine statische IPv4-Adresse mit hilfe von dem ip fehl `ip 192.168.1.20 255.255.255.0`
+2. PC1, PC2 und PC3 können sich gegenseitig anpingen 
+3. Verwendetes Subnetz ist /24
+4. wireshark Packet Traces wurden durchgeführt und im Repository abgelegt
+![image](https://github.com/Zubcal/m145/assets/127558095/f1581d4f-f7f0-430a-96a5-6bde018ac8cd)
+
 ## Fragen   
 
 1.    
