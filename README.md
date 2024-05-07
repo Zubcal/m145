@@ -47,13 +47,12 @@
 3. Verwendetes Subnetz ist /24
 4. wireshark Packet Traces wurden durchgeführt und im Repository abgelegt
 
-
-## Fragen   
-
-1.    
-2.    
-   
+### Übung: Wlan Analyse
+info zur Wlan Analyse Aufgabe: in Meinem Zuhause habe ich 2 Wlan AP's Die SSD der AP's ist Mahad
+  
 ## Ressourcen   
- 
 
+[Heat Map Software]([url](https://tbzedu.sharepoint.com/sites/campus/students/it/Forms/AllItems.aspx?id=/sites/campus/students/it/_read-only/M145/03%20-%20Tools/Ekahau%20Heatmapper-Setup.exe&parent=/sites/campus/students/it/_read-only/M145/03%20-%20Tools))
+[Visual Subnet Calculator]([url](https://www.davidc.net/sites/default/subnets/subnets.html))
+[Git Lab Repository ](https://gitlab.com/ch-tbz-it/Stud/m145)
    
