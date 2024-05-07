@@ -52,6 +52,9 @@ info zur Wlan Analyse Aufgabe:
 in Meinem Zuhause habe ich 2 Wlan AP's 
 Die SSD der AP's ist Mahad
 Die Software die ich für die Aufnahme der Wlan leistung heisst Ekahau Heatmapper
+
+![heat map](https://github.com/Zubcal/m145/assets/127558095/5dda01b4-cca1-4733-bcbb-5d8920f09539)
+
   
 ## verwendete Ressourcen im Modul
 
