@@ -53,7 +53,7 @@ in Meinem Zuhause habe ich 2 Wlan AP's
 Die SSD der AP's ist Mahad
 Die Software die ich für die Aufnahme der Wlan leistung heisst Ekahau Heatmapper
   
-## Ressourcen   
+## verwendete Ressourcen im Modul
 
 [Heat Map Software (Ekahau Heatmapper)](https://tbzedu.sharepoint.com/sites/campus/students/it/Forms/AllItems.aspx?id=/sites/campus/students/it/_read-only/M145/03%20-%20Tools/Ekahau%20Heatmapper-Setup.exe&parent=/sites/campus/students/it/_read-only/M145/03%20-%20Tools)
 
